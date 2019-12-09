@@ -40,3 +40,11 @@ flyzy小站交流群：http://t.me/flyzyxiaozhan
 
 ### VPS信息汇总
 [VPS GO](https://www.vpsgo.com)
+
+### 步骤
+ss-fly/ss-fly.sh -i password 1024
+
+开启bbr加速
+ss-fly/ss-fly.sh -bbr
+重启后
+ss-fly/ss-fly.sh -bbr
